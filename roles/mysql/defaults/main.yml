@@ -1,0 +1,11 @@
+---
+# defaults file for mysql
+# nome do banco de dados da aplicacao
+test_db: test
+# login a ser criado para a aplicacao
+test_user: test
+# senha a ser atribuida para o login da aplicacao
+test_password: test
+
+
+
